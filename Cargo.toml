@@ -1,0 +1,14 @@
+[package]
+name = "socket2_playground"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+
+# net
+socket2 = "0"
+
+
+# utils
+anyhow = "1"
